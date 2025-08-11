@@ -741,7 +741,7 @@ export default function MertkodLanding() {
                 </CardContent>
               </Card>
 
-              <Card className="border-0 shadow-lg">
+              {/*           <Card className="border-0 shadow-lg">
                 <CardContent className="pt-6">
                   <div className="flex items-center space-x-4">
                     <MapPin className="h-8 w-8 text-blue-600" />
@@ -755,7 +755,7 @@ export default function MertkodLanding() {
                     </div>
                   </div>
                 </CardContent>
-              </Card>
+              </Card> */}
             </div>
           </div>
         </div>
@@ -904,7 +904,7 @@ export default function MertkodLanding() {
               <ul className="space-y-2 text-gray-400">
                 <li>+90 (536) 560 85 95</li>
                 <li>mertkodofficial@gmail.com</li>
-                <li>Esenler, İstanbul</li>
+                {/*     <li>Esenler, İstanbul</li> */}
               </ul>
             </div>
           </div>
